@@ -1,4 +1,4 @@
-# 🍽️ Seaborn + Streamlit - Predictive Model
+# 🍽️  Predictive-Model-Visualizer-using-Streamlit
 
 An interactive data visualization dashboard built with **Seaborn** and **Streamlit** that allows users to explore the classic `tips` dataset through dynamic plot selection and customization.
 
