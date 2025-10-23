@@ -108,7 +108,7 @@ This app is ideal for:
 **Chris Mahlake**  
 *Python | Seaborn - Matplotlib | Streamlit Enthusiast*
 
-[LinkedIn Profile](https://www.linkedin.com/in/chris-mahlake-623428213/)
+[LinkedIn Profile](https://www.linkedin.com/in/mahlakechris93/)
 
 ---
 
